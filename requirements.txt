@@ -1,0 +1,9 @@
+streamlit
+rank_bm25
+numpy
+httpx
+pypdf
+transformers
+torch
+sentencepiece
+sentence-transformers
